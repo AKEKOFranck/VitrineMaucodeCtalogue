@@ -1,0 +1,47 @@
+{
+  "currency": "FCFA",
+  "deliveryNote": "Livraison à Abidjan. Frais confirmés par la vendeuse.",
+  "name": "Adjoa Style",
+  "notePlaceholder": "Ex : taille M, couleur bleue...",
+  "products": [
+    {
+      "category": "Robes",
+      "description": "Tailles S à XL, coupe évasée",
+      "emoji": "👗",
+      "id": "robe-wax",
+      "name": "Robe en wax",
+      "price": 15000
+    },
+    {
+      "category": "Ensembles",
+      "description": "Haut et jupe assortis",
+      "emoji": "🧵",
+      "id": "ensemble-pagne",
+      "name": "Ensemble pagne",
+      "price": 22000
+    },
+    {
+      "category": "Hauts",
+      "description": "Légère, parfaite pour la chaleur",
+      "emoji": "👚",
+      "id": "chemise-lin",
+      "name": "Chemise en lin",
+      "price": 9000
+    },
+    {
+      "category": "Accessoires",
+      "description": "Fait main, doublure en tissu",
+      "emoji": "👜",
+      "id": "sac-tresse",
+      "name": "Sac tressé",
+      "price": 7500
+    }
+  ],
+  "slogan": "Habillez-vous avec élégance, livré chez vous.",
+  "tagline": "Mode femme et pagnes",
+  "theme": {
+    "primary": "#b4235a",
+    "soft": "#fdeaf2"
+  },
+  "whatsapp": "225XXXXXXXXXX"
+}

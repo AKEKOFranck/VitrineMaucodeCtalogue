@@ -1,0 +1,63 @@
+{
+  "currency": "FCFA",
+  "deliveryNote": "Livraison possible selon la zone. Les frais sont confirmés par le vendeur.",
+  "name": "Miam & Go",
+  "notePlaceholder": "Ex : sans oignon, bien pimenté...",
+  "products": [
+    {
+      "category": "Snacks",
+      "description": "Steak, fromage, salade, tomate",
+      "emoji": "🍔",
+      "id": "burger",
+      "name": "Burger classique",
+      "price": 2500
+    },
+    {
+      "category": "Snacks",
+      "description": "Poulet grillé, crudités, sauce maison",
+      "emoji": "🥪",
+      "id": "sandwich",
+      "name": "Sandwich poulet",
+      "price": 2000
+    },
+    {
+      "category": "Snacks",
+      "description": "Viande, frites, sauce fromagère",
+      "emoji": "🌯",
+      "id": "tacos",
+      "name": "Tacos",
+      "price": 2500
+    },
+    {
+      "category": "Jus",
+      "description": "Pressé frais, sans conservateur",
+      "emoji": "🍍",
+      "id": "ananas",
+      "name": "Jus d'ananas",
+      "price": 1000
+    },
+    {
+      "category": "Jus",
+      "description": "Fleur d'hibiscus, menthe",
+      "emoji": "🌺",
+      "id": "bissap",
+      "name": "Jus de bissap",
+      "price": 1000
+    },
+    {
+      "category": "Pâtisseries",
+      "description": "Part fondante, cacao intense",
+      "emoji": "🍫",
+      "id": "gateau",
+      "name": "Gâteau au chocolat",
+      "price": 1500
+    }
+  ],
+  "slogan": "Des produits frais, faits avec passion !",
+  "tagline": "Snacks, jus et pâtisseries",
+  "theme": {
+    "primary": "#1fa3ec",
+    "soft": "#e7f6ff"
+  },
+  "whatsapp": "2250789763083"
+}
